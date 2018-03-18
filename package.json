@@ -59,11 +59,18 @@
   },
   "dependencies": {
     "@superguigui/wagner": "^0.1.6",
+    "babel-preset-react": "^6.24.1",
     "dat-gui": "^0.5.0",
     "glsl-checker": "^1.0.1",
     "glsl-noise": "0.0.0",
     "glslify-fancy-imports": "^1.0.1",
     "glslify-hex": "^2.0.1",
+    "lodash": "^4.17.5",
+    "mobx": "^4.1.0",
+    "react": "^16.2.0",
+    "react-chat-widget": "^2.1.2",
+    "react-chat-window": "^1.0.8",
+    "react-dom": "^16.2.0",
     "three": "^0.89.0",
     "webvr-polyfill": "^0.10.2",
     "webvr-ui": "^0.10.0"

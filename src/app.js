@@ -1,7 +1,8 @@
 import './css/style.css'
-// import Main from './js/main'
-// import Main from './js/mainWagner'
-import Main from './js/mainVR'
+import Main from './js/main'
+import React from 'react'
+import ReactDOM from 'react-dom'
+import Ui from './js/ui'
 
-// eslint-disable-next-line
+ReactDOM.render(<Ui />, document.getElementById('ui'))
 new Main()
